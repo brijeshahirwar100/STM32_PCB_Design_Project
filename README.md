@@ -64,6 +64,7 @@ The PCB consists of three major sections:
 <p align="center">
   <img src="https://raw.githubusercontent.com/brijeshahirwar100/STM32_PCB_Design_Project/main/STM32_PCB_Design_Project/PCB/PCB_Layout_2D.png" width="800"/>
 </p>
+
 ## 📐 PCB Layout (3D)
 
 <p align="center">
