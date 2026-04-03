@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+C:\Altium_Projects\New_Projects\STM32_Custom_PCB\Project Outputs for 23095027_BRIJESH_AHIRWAR_EC373\Pick Place for 23095027_BRIJESH_AHIRWAR_EC373.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       27-10-25
+Time:       18:45
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C7","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25LL10T15","108.0000","75.8000","90","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C3","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","96.8485","74.9805","90","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+"C9","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","104.8763","66.8674","180","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+"Y1","24MHz","TopLayer","EPSON-FA-128_V","95.2328","69.1967","90","Crystal, 24 MHz, +/- 10 ppm, -20 to 75 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"U3","MPU-6050","TopLayer","IS-QFN-24_V","94.5564","80.4420","0","3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel"
+"U2","AMS1117 3V3","TopLayer","FP-ams1117-IPC_C","112.7050","63.0000","270","1A LOW DROPOUT VOLTAGE REGULATOR"
+"U1","STM32F411CEU6","TopLayer","STM-UFQFPN48_L","103.4000","72.7500","0","ARM Cortex-M4 32-bit MCU+FPU, 512 KB Flash, 128 KB RAM, 36 I/Os, 48-Pin UFQFPN, -40 to 85 degC, Tray"
+"R2","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","100.7100","80.5820","0","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R1","Resistor 0R 0402 63 mW","TopLayer","RESC1005X40X25ML05T10","95.7408","71.0777","0","Chip Resistor, 0 Ohm, 0.063 W, -55 to 155 degC, 0402 (1005 Metric)"
+"R4","Resistor 1K +/-5 % 0402 63 mW","TopLayer","RESC0402(1005)_L","108.8068","69.9021","0","Chip Resistor, 1 kOhms, +/-5 %, 63 mW, -55 to 155 degC, 0402"
+"R3","Resistor 10K  +/-1 % 0402 63 mW","TopLayer","RESC0402(1005)_L","110.1500","85.0000","0","Chip Resistor, 10 kOhms, +/-1 %, 63 mW, -55 to 125 degC, 0402"
+"R6","2K2","TopLayer","RESC0402(1005)_N","102.4888","81.9955","0","2K2 0.063W 5% 0402 (1005 Metric)  SMD"
+"R5","2K2","TopLayer","RESC0402(1005)_N","103.0008","83.3087","180","2K2 0.063W 5% 0402 (1005 Metric)  SMD"
+"R7","Resistor 1K +/-5 % 0402 63 mW","TopLayer","RESC0402(1005)_L","117.9718","65.0867","270","Chip Resistor, 1 kOhms, +/-5 %, 63 mW, -55 to 155 degC, 0402"
+"LED1","LED_R","TopLayer","QTB-QBLP595_V","108.8568","71.1020","180","Chip LED 0402, Red, 0.02 A, 2.0 to 2.5 V, -40 to 80 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"L1","BLM18AG121SN1D","TopLayer","MURA-BLM18-F-H1-CHIP-2_V","114.9116","72.7727","180","Chip Ferrite Bead for General Use, 120 Ohm, 500 mA, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"J1","TC2030-CTX-NL","TopLayer","FP-TC2030-CTX-NL-MFG","110.7263","80.9808","180","6-Pin “No legs” TC2030 Plug-of-Nails™ Cable for use with ARM Cortex processors"
+"J2","473460001","TopLayer","FP-473460001-MFG","118.8534","74.0755","90","CONN RCPT USB2.0 MICRO B SMD R/A"
+"D1","LED G","TopLayer","FP-LG_Q396-MFG","117.1124","62.8375","270","LED GREEN DIFFUSED 0603 SMD"
+"J3","SM06B-SRSS-TB","TopLayer","JST-SM06B-SRSS-TB_V","101.0000","62.5125","0","Male Header, Pitch 1 mm, 1 x 6 Position, Height 2.95 mm, -25 to 85 degC, RoHS, Tape and Reel"
+"C8","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25LL10T15","100.6100","78.0000","180","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C6","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25LL10T15","107.5584","67.8767","0","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C5","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25LL10T15","98.3786","70.2650","270","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C4","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25LL10T15","98.2649","74.9805","90","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C2","Capacitor 10 pF +/- 5% 50 V 0603","TopLayer","CAPC1608X90X40ML10T20","95.5000","72.6000","0","Chip Capacitor, 10 pF, +/- 5%, 50 V, 0603 (1608 Metric)"
+"C1","Capacitor 10 pF +/- 5% 50 V 0603","TopLayer","CAPC1608X90X40ML10T20","94.9479","67.1405","180","Chip Capacitor, 10 pF, +/- 5%, 50 V, 0603 (1608 Metric)"
+"C10","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25LL10T15","107.6100","85.0000","0","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C11","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25LL10T15","93.4537","76.9806","180","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C14","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25LL10T15","96.0502","83.9731","180","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C13","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25LL10T15","98.0400","81.1500","270","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C12","Capacitor 0.1 uF +/- 5% 16 V 0402","TopLayer","CAPC1005X56X25LL10T15","95.4706","76.7304","180","Chip Capacitor, 0.1 uF, +/- 5%, 16 V, 0402 (1005 Metric)"
+"C16","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","114.0000","70.8000","90","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+"C15","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","115.6000","70.6000","90","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+"C18","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","113.7412","67.7330","180","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+"C17","Capacitor 10µF +/-20% 10V 0603","TopLayer","CAPC0603(1608)100_L","111.8819","69.2118","180","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
