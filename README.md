@@ -39,7 +39,7 @@ The PCB consists of three major sections:
 
 ## 📐 PCB Design
 - Designed in **Altium Designer**
-- 2-layer PCB
+- 4-layer PCB
 - Clean routing and component placement
 - Power and signal integrity considerations included
 
